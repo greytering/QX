@@ -158,6 +158,7 @@ DOMAIN-SUFFIX,mytvsuper.com,ForeignMedia
 DOMAIN-SUFFIX,tvb.com,ForeignMedia
 # > Netflix
 USER-AGENT,Argo*,ForeignMedia
+DOMAIN-SUFFIX,fast.com,ForeignMedia
 DOMAIN-SUFFIX,netflix.com,ForeignMedia
 DOMAIN-SUFFIX,netflix.net,ForeignMedia
 DOMAIN-SUFFIX,nflxext.com,ForeignMedia
