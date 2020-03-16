@@ -29,10 +29,10 @@ DOMAIN-SUFFIX,twimg.com,Google、Youtube、Telegram、Twitter,force-remote-dns
 DOMAIN-SUFFIX,twitpic.com,Google、Youtube、Telegram、Twitter,force-remote-dns
 DOMAIN-SUFFIX,vine.co,Google、Youtube、Telegram、Twitter,force-remote-dns
 DOMAIN-KEYWORD,twitter,Google、Youtube、Telegram、Twitter,force-remote-dns
-DOMAIN-SUFFIX,t.me,Google、Youtube、Telegram
-DOMAIN-SUFFIX,tdesktop.com,Google、Youtube、Telegram
+DOMAIN-SUFFIX,t.me,Google、Youtube、Telegram、Twitter
+DOMAIN-SUFFIX,tdesktop.com,Google、Youtube、Telegram、Twitter
 DOMAIN-SUFFIX,telegra.ph,Google、Youtube、Telegram、Twitter,force-remote-dns
-DOMAIN-SUFFIX,telegram.me,Google、Youtube、Telegram
+DOMAIN-SUFFIX,telegram.me,Google、Youtube、Telegram、Twitter
 DOMAIN-SUFFIX,telegram.org,Google、Youtube、Telegram、Twitter,force-remote-dns
 IP-CIDR,91.108.4.0/22,Google、Youtube、Telegram、Twitter,no-resolve
 IP-CIDR,91.108.8.0/22,Google、Youtube、Telegram、Twitter,no-resolve
