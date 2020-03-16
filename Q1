@@ -158,7 +158,6 @@ DOMAIN-SUFFIX,tencent.com,DIRECT
 DOMAIN-SUFFIX,tencent-cloud.net,DIRECT
 DOMAIN-SUFFIX,tenpay.com,DIRECT
 DOMAIN,file-igamecj.akamaized.net,DIRECT
-DOMAIN-KEYWORD,qq.com,DIRECT
 # > YYeTs
 USER-AGENT,YYeTs*,DIRECT
 DOMAIN-SUFFIX,jstucdn.com,DIRECT
