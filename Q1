@@ -21,25 +21,25 @@ USER-AGENT,YouTube*,Google、Youtube、Telegram、Twitter
 DOMAIN-SUFFIX,googlevideo.com,Google、Youtube、Telegram、Twitter,force-remote-dns
 DOMAIN-SUFFIX,youtube.com,Google、Youtube、Telegram、Twitter,force-remote-dns
 DOMAIN,youtubei.googleapis.com,Google、Youtube、Telegram、Twitter,force-remote-dns
-DOMAIN-SUFFIX,pscp.tv,Google、Youtube、Telegram,force-remote-dns
-DOMAIN-SUFFIX,periscope.tv,Google、Youtube、Telegram,force-remote-dns
-DOMAIN-SUFFIX,t.co,Google、Youtube、Telegram,force-remote-dns
-DOMAIN-SUFFIX,twimg.co,Google、Youtube、Telegram,force-remote-dns
-DOMAIN-SUFFIX,twimg.com,Google、Youtube、Telegram,force-remote-dns
-DOMAIN-SUFFIX,twitpic.com,Google、Youtube、Telegram,force-remote-dns
-DOMAIN-SUFFIX,vine.co,Google、Youtube、Telegram,force-remote-dns
-DOMAIN-KEYWORD,twitter,Google、Youtube、Telegram,force-remote-dns
+DOMAIN-SUFFIX,pscp.tv,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,periscope.tv,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,t.co,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,twimg.co,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,twimg.com,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,twitpic.com,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,vine.co,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-KEYWORD,twitter,Google、Youtube、Telegram、Twitter,force-remote-dns
 DOMAIN-SUFFIX,t.me,Google、Youtube、Telegram
 DOMAIN-SUFFIX,tdesktop.com,Google、Youtube、Telegram
-DOMAIN-SUFFIX,telegra.ph,Google、Youtube、Telegram,force-remote-dns
+DOMAIN-SUFFIX,telegra.ph,Google、Youtube、Telegram、Twitter,force-remote-dns
 DOMAIN-SUFFIX,telegram.me,Google、Youtube、Telegram
-DOMAIN-SUFFIX,telegram.org,Google、Youtube、Telegram,force-remote-dns
-IP-CIDR,91.108.4.0/22,Google、Youtube、Telegram,no-resolve
-IP-CIDR,91.108.8.0/22,Google、Youtube、Telegram,no-resolve
-IP-CIDR,91.108.12.0/22,Google、Youtube、Telegram,no-resolve
-IP-CIDR,91.108.16.0/22,Google、Youtube、Telegram,no-resolve
-IP-CIDR,91.108.56.0/22,Google、Youtube、Telegram,no-resolve
-IP-CIDR,149.154.160.0/20,Google、Youtube、Telegram,no-resolve
+DOMAIN-SUFFIX,telegram.org,Google、Youtube、Telegram、Twitter,force-remote-dns
+IP-CIDR,91.108.4.0/22,Google、Youtube、Telegram、Twitter,no-resolve
+IP-CIDR,91.108.8.0/22,Google、Youtube、Telegram、Twitter,no-resolve
+IP-CIDR,91.108.12.0/22,Google、Youtube、Telegram、Twitter,no-resolve
+IP-CIDR,91.108.16.0/22,Google、Youtube、Telegram、Twitter,no-resolve
+IP-CIDR,91.108.56.0/22,Google、Youtube、Telegram、Twitter,no-resolve
+IP-CIDR,149.154.160.0/20,Google、Youtube、Telegram、Twitter,no-resolve
 
 
 
