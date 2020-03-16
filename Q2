@@ -1,0 +1,171 @@
+# > Tiktok
+DOMAIN-KEYWORD,muscial,Tiktok
+DOMAIN-KEYWORD,muscdn,Tiktok
+DOMAIN-KEYWORD,tiktokv
+
+
+# (DNS Cache Pollution Protection)
+# > Google、Youtube、Telegram、Twitter
+DOMAIN-SUFFIX,ampproject.org,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,appspot.com,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,blogger.com,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,getoutline.org,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,gvt0.com,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,gvt1.com,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,gvt3.com,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-KEYWORD,google,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-KEYWORD,blogspot,Google、Youtube、Telegram、Twitter,force-remote-dns
+USER-AGENT,com.google.ios.youtube*,Google、Youtube、Telegram、Twitter
+USER-AGENT,YouTube*,Google、Youtube、Telegram、Twitter
+DOMAIN-SUFFIX,googlevideo.com,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,youtube.com,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN,youtubei.googleapis.com,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,pscp.tv,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,periscope.tv,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,t.co,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,twimg.co,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,twimg.com,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,twitpic.com,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,vine.co,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-KEYWORD,twitter,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,t.me,Google、Youtube、Telegram、Twitter
+DOMAIN-SUFFIX,tdesktop.com,Google、Youtube、Telegram、Twitter
+DOMAIN-SUFFIX,telegra.ph,Google、Youtube、Telegram、Twitter,force-remote-dns
+DOMAIN-SUFFIX,telegram.me,Google、Youtube、Telegram、Twitter
+DOMAIN-SUFFIX,telegram.org,Google、Youtube、Telegram、Twitter,force-remote-dns
+IP-CIDR,91.108.4.0/22,Google、Youtube、Telegram、Twitter,no-resolve
+IP-CIDR,91.108.8.0/22,Google、Youtube、Telegram、Twitter,no-resolve
+IP-CIDR,91.108.12.0/22,Google、Youtube、Telegram、Twitter,no-resolve
+IP-CIDR,91.108.16.0/22,Google、Youtube、Telegram、Twitter,no-resolve
+IP-CIDR,91.108.56.0/22,Google、Youtube、Telegram、Twitter,no-resolve
+IP-CIDR,149.154.160.0/20,Google、Youtube、Telegram、Twitter,no-resolve
+
+
+
+
+# > Microsoft
+DOMAIN-SUFFIX,onedrive.live.com,PROXY,force-remote-dns
+DOMAIN-SUFFIX,xboxlive.com,PROXY,force-remote-dns
+# > Facebook
+DOMAIN-SUFFIX,cdninstagram.com,PROXY,force-remote-dns
+DOMAIN-SUFFIX,fb.com,PROXY,force-remote-dns
+DOMAIN-SUFFIX,fb.me,PROXY,force-remote-dns
+DOMAIN-SUFFIX,fbaddins.com,PROXY,force-remote-dns
+DOMAIN-SUFFIX,fbcdn.net,PROXY,force-remote-dns
+DOMAIN-SUFFIX,fbsbx.com,PROXY,force-remote-dns
+DOMAIN-SUFFIX,fbworkmail.com,PROXY,force-remote-dns
+DOMAIN-SUFFIX,instagram.com,PROXY,force-remote-dns
+DOMAIN-SUFFIX,m.me,PROXY,force-remote-dns
+DOMAIN-SUFFIX,messenger.com,PROXY,force-remote-dns
+DOMAIN-SUFFIX,oculus.com,PROXY,force-remote-dns
+DOMAIN-SUFFIX,oculuscdn.com,PROXY,force-remote-dns
+DOMAIN-SUFFIX,rocksdb.org,PROXY,force-remote-dns
+DOMAIN-SUFFIX,whatsapp.com,PROXY,force-remote-dns
+DOMAIN-SUFFIX,whatsapp.net,PROXY,force-remote-dns
+DOMAIN-KEYWORD,facebook,PROXY,force-remote-dns
+IP-CIDR,3.123.36.126/32,PROXY,no-resolve
+IP-CIDR,35.157.215.84/32,PROXY,no-resolve
+IP-CIDR,35.157.217.255/32,PROXY,no-resolve
+IP-CIDR,52.58.209.134/32,PROXY,no-resolve
+IP-CIDR,54.93.124.31/32,PROXY,no-resolve
+IP-CIDR,54.162.243.80/32,PROXY,no-resolve
+IP-CIDR,54.173.34.141/32,PROXY,no-resolve
+IP-CIDR,54.235.23.242/32,PROXY,no-resolve
+IP-CIDR,169.45.248.118/32,PROXY,no-resolve
+
+
+# > Apple
+# >> TestFlight
+DOMAIN,testflight.apple.com,testflight
+
+
+# > Apple
+DOMAIN-SUFFIX,aaplimg.com,⚠️Apple 服务代理(不明白就选DIRECT)
+DOMAIN-SUFFIX,apple.co,⚠️Apple 服务代理(不明白就选DIRECT)
+DOMAIN-SUFFIX,apple.com,⚠️Apple 服务代理(不明白就选DIRECT)
+DOMAIN-SUFFIX,apple-cloudkit.com,⚠️Apple 服务代理(不明白就选DIRECT)
+DOMAIN-SUFFIX,appstore.com,⚠️Apple 服务代理(不明白就选DIRECT)
+DOMAIN-SUFFIX,cdn-apple.com,⚠️Apple 服务代理(不明白就选DIRECT)
+DOMAIN-SUFFIX,crashlytics.com,⚠️Apple 服务代理(不明白就选DIRECT)
+DOMAIN-SUFFIX,icloud.com,⚠️Apple 服务代理(不明白就选DIRECT)
+DOMAIN-SUFFIX,icloud-content.com,⚠️Apple 服务代理(不明白就选DIRECT)
+DOMAIN-SUFFIX,me.com,⚠️Apple 服务代理(不明白就选DIRECT)
+DOMAIN-SUFFIX,mzstatic.com,⚠️Apple 服务代理(不明白就选DIRECT)
+DOMAIN,www-cdn.icloud.com.akadns.net,⚠️Apple 服务代理(不明白就选DIRECT)
+IP-CIDR,17.0.0.0/8,⚠️Apple 服务代理(不明白就选DIRECT)
+# > Baidu
+DOMAIN-SUFFIX,baidu.com,DIRECT
+DOMAIN-SUFFIX,baidubcr.com,DIRECT
+DOMAIN-SUFFIX,bdstatic.com,DIRECT
+DOMAIN-SUFFIX,yunjiasu-cdn.net,DIRECT
+# > bilibili
+DOMAIN-SUFFIX,acgvideo.com,DIRECT
+DOMAIN-SUFFIX,biliapi.com,DIRECT
+DOMAIN-SUFFIX,biliapi.net,DIRECT
+DOMAIN-SUFFIX,bilibili.com,DIRECT
+DOMAIN-SUFFIX,bilibili.tv,DIRECT
+DOMAIN-SUFFIX,hdslb.com,DIRECT
+
+
+# > MI
+DOMAIN-SUFFIX,duokan.com,DIRECT
+DOMAIN-SUFFIX,mi-img.com,DIRECT
+DOMAIN-SUFFIX,miui.com,DIRECT
+DOMAIN-SUFFIX,miwifi.com,DIRECT
+DOMAIN-SUFFIX,xiaomi.com,DIRECT
+
+
+# > NetEase
+USER-AGENT,NeteaseMusic*,DIRECT
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,DIRECT
+DOMAIN-SUFFIX,163.com,DIRECT
+DOMAIN-SUFFIX,126.net,DIRECT
+DOMAIN-SUFFIX,127.net,DIRECT
+DOMAIN-SUFFIX,163yun.com,DIRECT
+DOMAIN-SUFFIX,lofter.com,DIRECT
+DOMAIN-SUFFIX,netease.com,DIRECT
+DOMAIN-SUFFIX,ydstatic.com,DIRECT
+
+
+# > Sina
+DOMAIN-SUFFIX,sina.com,DIRECT
+DOMAIN-SUFFIX,weibo.com,DIRECT
+DOMAIN-SUFFIX,weibocdn.com,DIRECT
+# > Sohu
+DOMAIN-SUFFIX,sohu.com,DIRECT
+DOMAIN-SUFFIX,sohucs.com,DIRECT
+DOMAIN-SUFFIX,sohu-inc.com,DIRECT
+DOMAIN-SUFFIX,v-56.com,DIRECT
+# > Sogo
+DOMAIN-SUFFIX,sogo.com,DIRECT
+DOMAIN-SUFFIX,sogou.com,DIRECT
+DOMAIN-SUFFIX,sogoucdn.com,DIRECT
+
+
+# > Tencent
+USER-AGENT,MicroMessenger%20Client,DIRECT
+USER-AGENT,WeChat*,DIRECT
+USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*,DIRECT
+DOMAIN-SUFFIX,gtimg.com,DIRECT
+DOMAIN-SUFFIX,idqqimg.com,DIRECT
+DOMAIN-SUFFIX,igamecj.com,DIRECT
+DOMAIN-SUFFIX,myapp.com,DIRECT
+DOMAIN-SUFFIX,myqcloud.com,DIRECT
+DOMAIN-SUFFIX,qq.com,DIRECT
+DOMAIN-SUFFIX,servicewechat.com,DIRECT
+DOMAIN-SUFFIX,tencent.com,DIRECT
+DOMAIN-SUFFIX,tencent-cloud.net,DIRECT
+DOMAIN-SUFFIX,tenpay.com,DIRECT
+DOMAIN,file-igamecj.akamaized.net,DIRECT
+DOMAIN-KEYWORD,qq.com,DIRECT
+# > YYeTs
+USER-AGENT,YYeTs*,DIRECT
+DOMAIN-SUFFIX,jstucdn.com,DIRECT
+DOMAIN-SUFFIX,zimuzu.io,DIRECT
+DOMAIN-SUFFIX,zimuzu.tv,DIRECT
+DOMAIN-SUFFIX,zmz2019.com,DIRECT
+DOMAIN-SUFFIX,zmzapi.com,DIRECT
+DOMAIN-SUFFIX,zmzapi.net,DIRECT
+DOMAIN-SUFFIX,zmzfile.com,DIRECT
+
