@@ -786,3 +786,12 @@ DOMAIN-SUFFIX,x-art.com,PROXY
 DOMAIN-SUFFIX,yimg.com,PROXY
 DOMAIN,api.steampowered.com,PROXY
 DOMAIN,store.steampowered.com,PROXY
+
+
+# > Tiktok
+DOMAIN-KEYWORD,muscial,Tiktok
+DOMAIN-KEYWORD,muscdn,Tiktok
+DOMAIN-KEYWORD,tiktokv
+
+
+
